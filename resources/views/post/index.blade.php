@@ -7,6 +7,7 @@
                     <x-category-tabs> No Categories.</x-category-tabs>
                 </div>
             </div>
+            
             <div class="mt-8 text-gray-900>
 
                     <div class="p-4 text-gray-900 dark:text-gray-100">
